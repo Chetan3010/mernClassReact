@@ -8,6 +8,7 @@ const Navbar = () => {
             <div className="links flex gap-5 text-2xl">
                 <NavLink className='hover:text-zinc-100' to="/home">Home</NavLink>
                 <NavLink className='hover:text-zinc-100' to="/contact">Contact</NavLink>
+                <NavLink className='hover:text-zinc-100' to="/reacthookform">ReactHookForm</NavLink>
                 <NavLink className='hover:text-zinc-100' to="/product">Product</NavLink>
             </div>
         </div>

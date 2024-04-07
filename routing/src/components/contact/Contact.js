@@ -22,8 +22,8 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    !contactForm.username ? setErrors({username: "Enter your username"}) : delete errors.username
-    if(!errors.username) console.log(contactForm);
+    // !contactForm.username ? setErrors({username: "Enter your username"}) : delete errors.username
+    // if(!errors.username) console.log(contactForm);
   }
 
   return (

@@ -7,6 +7,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Error404 from './components/errorPage/Error404';
 import Home from './components/home/Home.js';
 import Contact from './components/contact/Contact.js';
+import HookForm from './components/contact/HookFormValidation.js';
 import Product from './components/product/Product.js';
 import ProductDet from './components/product/ProductDet.js';
 
@@ -27,6 +28,10 @@ const routes = createBrowserRouter([
       {
         path: '/contact',
         element: <Contact />
+      },
+      {
+        path: '/reacthookform',
+        element: <HookForm />
       },
       {
         path: '/product',
