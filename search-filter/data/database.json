@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "cotten shirt",
+      "price": 399,
+      "category": "clothes",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi, eaque?",
+      "image":"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iphone 15",
+      "price": 1599,
+      "category": "mobile",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi, eaque?",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.gsmarena.com%2Fapple_iphone_15_pro-pictures-12557.php&psig=AOvVaw0bvlXVKcBWfpjrzelisGPW&ust=1711283098591000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjM87uwioUDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 3,
+      "name": "women shirt",
+      "price": 299,
+      "category": "clothes",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi, eaque?",
+      "image":"https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "sony xperia",
+      "price": 3999,
+      "category": "tv",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi, eaque?",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.gsmarena.com%2Fapple_iphone_15_pro-pictures-12557.php&psig=AOvVaw0bvlXVKcBWfpjrzelisGPW&ust=1711283098591000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjM87uwioUDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 5,
+      "name": "samsung galaxy",
+      "price": 2999,
+      "category": "mobile",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi, eaque?",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fsamsung-mobile-store&psig=AOvVaw2qtJsZ2GZHaRULufZgAoYS&ust=1711283162139000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIj3pdmwioUDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 6,
+        "name": "lg tv",
+        "price": 2999,
+        "category": "tv",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi, eaque?",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lg.com%2Fin%2Ftv-soundbars%2Foled-evo%2Foled42c3psa%2F&psig=AOvVaw0-90hpzeW1tuoDiEGl9pao&ust=1711283185070000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCAqeSwioUDFQAAAAAdAAAAABAE"
+      }
+  ]
+}
