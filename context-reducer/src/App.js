@@ -30,13 +30,13 @@ function App() {
       </div>
       <div className='mt-20'>
         <div className="flex justify-between">
-        <h1 className='text-8xl selection:bg-none'>
-          Count =&gt; {counter} 👀
-        </h1>
-        <div className='flex'>
-          <CiSquarePlus className='w-24 h-24 cursor-pointer hover:scale-110' onClick={ () =>  dispatch( incremented() ) } />
-          <CiSquareMinus className='w-24 h-24 cursor-pointer hover:scale-110' onClick={ () =>  dispatch( decremented() ) } />
-        </div>
+          <h1 className='text-8xl selection:bg-none'>
+            Count =&gt; {counter} 👀
+          </h1>
+          <div className='flex'>
+            <CiSquarePlus className='w-24 h-24 cursor-pointer hover:scale-110' onClick={() => dispatch(incremented())} />
+            <CiSquareMinus className='w-24 h-24 cursor-pointer hover:scale-110' onClick={() => dispatch(decremented())} />
+          </div>
         </div>
       </div>
     </div>
